@@ -1,0 +1,2 @@
+Número secreto: 2631
+Intentos: 4
