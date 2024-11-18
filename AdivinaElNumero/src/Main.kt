@@ -4,7 +4,7 @@ fun main() {
     println("2. Ver partida anterior")
     println("3. Salir")
 
-//Según la entrada del Usuario se elige lo que se quiere hacer
+//Bucle que gestiona el menú de opciones degún la entrada del Usuario
     while(true) {
         val entry= readln()
         if(entry == "1"){
